@@ -60,7 +60,7 @@ The program expects two command-line arguments:
 
 Run:
 
-python ngrams.py example_train.txt example_test.txt
+python ngrams.py examples/example_train.txt examples/example_test.txt
 The training and test files should contain one sentence per line.
 
 ## Example Output
