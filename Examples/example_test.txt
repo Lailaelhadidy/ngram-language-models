@@ -1,0 +1,5 @@
+the robot learns from data
+the model processes language
+a robot learns from examples
+language models predict data
+the student processes words

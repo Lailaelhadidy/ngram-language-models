@@ -1,0 +1,24 @@
+S = the robot learns from data
+Unsmoothed Unigrams, logprob(S) = -17.5696
+Unsmoothed Bigrams, logprob(S) = -5.1699
+Smoothed Bigrams, logprob(S) = -13.5511
+
+S = the model processes language
+Unsmoothed Unigrams, logprob(S) = -14.6102
+Unsmoothed Bigrams, logprob(S) = -5.0000
+Smoothed Bigrams, logprob(S) = -11.7322
+
+S = a robot learns from examples
+Unsmoothed Unigrams, logprob(S) = -18.8915
+Unsmoothed Bigrams, logprob(S) = -5.1699
+Smoothed Bigrams, logprob(S) = -14.3287
+
+S = language models predict data
+Unsmoothed Unigrams, logprob(S) = -17.9322
+Unsmoothed Bigrams, logprob(S) = undefined
+Smoothed Bigrams, logprob(S) = -14.0078
+
+S = the student processes words
+Unsmoothed Unigrams, logprob(S) = -15.1952
+Unsmoothed Bigrams, logprob(S) = undefined
+Smoothed Bigrams, logprob(S) = -13.1472
